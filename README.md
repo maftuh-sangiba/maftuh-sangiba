@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi there 👋, I'm Maftuh Sangiba
 
-<!--
-**maftuh-sangiba/maftuh-sangiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Pullstack-Developer-blue?style=flat-square" alt="Pullstack Developer">
+  <img src="https://img.shields.io/badge/Status-Coding-success?style=flat-square" alt="Status">
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on software development and engineering solutions.
+- ⚡ Fun fact: Pullstack Developer.
+- 📬 How to reach me: [LinkedIn](https://id.linkedin.com/in/maftuh-sangiba) | [Website](https://maftuh.netlify.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,cpp,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=maftuh-sangiba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maftuh-sangiba&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://id.linkedin.com/in/maftuh-sangiba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://maftuh.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+  </a>
+</p>

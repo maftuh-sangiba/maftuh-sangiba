@@ -22,8 +22,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180px" src="https://vercel.app" />
-  <img height="180px" src="https://vercel.app" />
+  <img height="180px" src="https://demolab.com" />
 </p>
 
 ---

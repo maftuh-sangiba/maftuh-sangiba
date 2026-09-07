@@ -19,14 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180px" src="https://demolab.com" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">

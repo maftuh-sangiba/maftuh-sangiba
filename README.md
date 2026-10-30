@@ -38,13 +38,6 @@
 ### 📊 GitHub & Coding Stats
 
 <p align="left">
-  <!-- GitHub General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=maftuh-sangiba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Maftuh's GitHub Stats" height="150" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maftuh-sangiba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
-<p align="left">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maftuh-sangiba&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak Stats" />
 </p>
